@@ -3,7 +3,7 @@
 Steps to run
 1)Go to CommandLine 
 2)Enter following Commands
-     npm install
+     npm install 
      npm start
 3)It will run locally
 
